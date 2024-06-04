@@ -13,7 +13,6 @@ const config = {
     "plugin:@typescript-eslint/stylistic-type-checked",
     "plugin:prettier/recommended",
   ],
-  rules: {
-  },
+  rules: {},
 };
 module.exports = config;
